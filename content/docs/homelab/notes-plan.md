@@ -1,5 +1,6 @@
 +++
 title = 'Note Taking Plans'
+weight = 10
 date = 2024-02-10T07:07:07-07:00
 draft = false
 +++
