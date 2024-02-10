@@ -1,0 +1,4 @@
+theme = "hugo-bearcub"
+baseURL = 'http://loafabreadly.github.io/'
+languageCode = 'en-us'
+title = 'The Snurka Notes Repo'
