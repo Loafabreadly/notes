@@ -21,12 +21,8 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Test"
-  url = "/homelab"
-  weight = 10
-[[menu.after]]
-  name = "Github"
+  name = "Github Repo"
   url = "https://github.com/Loafabreadly/notes"
-  weight = 11
+  weight = 10
 
   
