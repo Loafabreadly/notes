@@ -1,9 +1,13 @@
-+++
-title = 'Note Taking Plans'
-weight = 10
-date = 2024-02-10T07:07:07-07:00
-draft = false
-+++
+---
+title: "Notes Taking Plans"
+weight: 1
+# bookFlatSection: false
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
 # Plan on how to host notes using Hugo + GH Pages
 
 1. Create a repo of my personal notes, broken down by the folders matching the way I want Hugo to host said notes. ☑️
