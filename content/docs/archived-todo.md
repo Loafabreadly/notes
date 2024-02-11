@@ -12,3 +12,4 @@ bookHidden: true
 
 - [X] ~~Look into Obsidian~~ - Going to use vscode to manage md files
 - [X] Look into Hugo for static site generation *using Pandoc + Markdown* - [Hosted here](https://loafabreadly.github.io/notes/)
+- [X] [Setup Notes system ](./homelab/notes-plan.md)
