@@ -130,16 +130,6 @@ X^2^
 
 
 ```markdown
----
-title: "Markdown Cheat Sheet"
-weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
----
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
@@ -206,16 +196,6 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-
-### Fenced Code Block
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
 
 ### Footnote
 
