@@ -15,9 +15,15 @@ weight: 1
 - [X] [Setup Notes system ](./homelab/notes-plan.md)
 - [ ] Continue working on dotfiles repo by copying nvim live config
 - [ ] Work on setup and installprereqs script to include lazygit, lazyvim/neovim + prereqs
+    - [ ] homebrew
+    - [ ] hugo
+    - [ ] lazygit
+    - [ ] lazyvim/neovim
+        - [ ] lazyvim pre-reqs
 - [ ] Format bashrc, modify aliases
 - [ ] Look into recipe extraction script
-
+- [ ] Write Index pages for all categories
+- [ ] Write bash script to automate menu index.md generation
 
 ### Long term goals
 - [ ] get CKA
