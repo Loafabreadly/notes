@@ -37,7 +37,7 @@ weight: 1
 * You can add other ingredients to your mashed potatoes, such as sour cream, chives, or shredded cheese.
 * Leftover mashed potatoes can be stored in the refrigerator for up to 3 days or frozen for longer storage.
 
-## otes:
+## Notes:
 
 * Cooking time may vary depending on the size and type of potatoes used.
 * Be careful not to overcook the potatoes, as they will become mushy.
