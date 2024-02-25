@@ -24,6 +24,7 @@ weight: 1
 - [ ] Look into [Bash-it](https://github.com/Bash-it/bash-it)
 
 ### Long term goals
+- [ ] [Get kuber fundamentals](https://training.linuxfoundation.org/training/kubernetes-fundamentals/)
 - [ ] get CKA
 - [ ] get DT-associate
 - [ ] Setup dev/prod K8s homnelab cluster
@@ -32,4 +33,4 @@ weight: 1
 ### Coding Project ideas
 - calculator (+-*/^%)
 - curl generator (input URL, various common flags, output file & file type, optional extract)
-- [Discord Bot Project]("../../homelab/discord-bot-project.md")
+- [Discord Bot Project](../../docs/homelab/discord-bot-project/)
