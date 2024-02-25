@@ -17,3 +17,4 @@ bookHidden: true
 - [X] Write Index pages for all categories
 - [X] Write bash script to automate menu index.md generation
 - [X] Continue working on dotfiles repo by copying nvim live config
+- [X] Format bashrc, modify aliases - Went with oh-my-posh
