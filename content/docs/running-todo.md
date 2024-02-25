@@ -12,7 +12,7 @@ weight: 1
 
 ### Daily tasks (Things i want to work on right now)
 
-- [ ] Implement [Stow](https://www.gnu.org/software/stow/) for my dotfiles setup
+- [X] Implement [Stow](https://www.gnu.org/software/stow/) for my dotfiles setup
 - [ ] Work on setup and installprereqs script to include lazygit, lazyvim/neovim + prereqs **[ ] Requires testing**
     - [X] homebrew
     - [X] hugo via bob
