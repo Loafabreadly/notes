@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on The Snurka Notes Repo</title>
+    <link>http://loafabreadly.github.io/docs/</link>
+    <description>Recent content in Docs on The Snurka Notes Repo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://loafabreadly.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archived Todo</title>
+      <link>http://loafabreadly.github.io/docs/archived-todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/archived-todo/</guid>
+      <description> Past TODO tasks that have since been completed # Look into Obsidian - Going to use vscode to manage md files Look into Hugo for static site generation using Pandoc + Markdown - Hosted here Setup Notes system </description>
+    </item>
+    <item>
+      <title>Running Todo</title>
+      <link>http://loafabreadly.github.io/docs/running-todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/running-todo/</guid>
+      <description>TODO Notes for Brad Snurka # Daily tasks (Things i want to work on right now) # Continue working on dotfiles repo by copying nvim live config Work on setup and installprereqs script to include lazygit, lazyvim/neovim + prereqs [ ] Requires testing homebrew hugo via bob lazygit lazyvim/neovim lazyvim pre-reqs kubectl k9s Format bashrc, modify aliases Look into recipe extraction script Write Index pages for all categories Write bash script to automate menu index.</description>
+    </item>
+  </channel>
+</rss>

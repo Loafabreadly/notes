@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on The Snurka Notes Repo</title>
+    <link>http://loafabreadly.github.io/</link>
+    <description>Recent content in Docs on The Snurka Notes Repo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://loafabreadly.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Air Fryer Asparagus</title>
+      <link>http://loafabreadly.github.io/docs/recipes/air-fryer-asparagus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/air-fryer-asparagus/</guid>
+      <description>Air Fryer Asparagus # From: iowagirleats.com Servings: 4+ Prep Time: 5 minutes Cook Time: 5-7 minutes&#xA;Ingredients # 1 bunch asparagus (3/4 - 1lb), trimmed 2 teaspoons extra virgin olive oil Lawry&amp;rsquo;s parsley garlic salt, to taste Instructions # Preheat air fryer to 390°F (199°C). In a bowl, toss the trimmed asparagus spears with olive oil and parsley garlic salt until evenly coated. Arrange the asparagus spears in a single layer in the air fryer basket.</description>
+    </item>
+    <item>
+      <title>Air Fryer Baked Potato</title>
+      <link>http://loafabreadly.github.io/docs/recipes/air-fryer-baked-potato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/air-fryer-baked-potato/</guid>
+      <description>Air Fryer Baked Potatoes # Ingredients # 2 large russet potatoes, scrubbed 1 tablespoon peanut oil ½ teaspoon coarse sea salt Directions # Gather all ingredients and preheat an air fryer to 400 degrees F (200 degrees C). Brush potatoes with peanut oil, sprinkle with salt, and place them in the air fryer basket. Cook potatoes until very tender when pierced with a fork, about 1 hour. Serve and enjoy!</description>
+    </item>
+    <item>
+      <title>Archived Todo</title>
+      <link>http://loafabreadly.github.io/docs/archived-todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/archived-todo/</guid>
+      <description> Past TODO tasks that have since been completed # Look into Obsidian - Going to use vscode to manage md files Look into Hugo for static site generation using Pandoc + Markdown - Hosted here Setup Notes system </description>
+    </item>
+    <item>
+      <title>Beef Stir Fry</title>
+      <link>http://loafabreadly.github.io/docs/recipes/beef-stir-fry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/beef-stir-fry/</guid>
+      <description>Quick Beef Stir-Fry # Ingredients # 2 tablespoons vegetable oil 1 pound beef sirloin, cut into 2-inch strips 1 ½ cups fresh broccoli florets 1 red bell pepper, cut into matchsticks 2 carrots, thinly sliced 1 green onion, chopped 1 teaspoon minced garlic 2 tablespoons soy sauce 2 tablespoons sesame seeds, toasted Directions # Gather all ingredients. Heat vegetable oil in a large wok or skillet over medium-high heat; cook and stir beef until browned, 3 to 4 minutes.</description>
+    </item>
+    <item>
+      <title>Cheesy Taco Soup</title>
+      <link>http://loafabreadly.github.io/docs/recipes/cheesy-taco-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/cheesy-taco-soup/</guid>
+      <description>5 Ingredient Cheesy Taco Soup # Ingredients # 1 pound lean ground beef 1 (1 ounce taco seasoning 1 (15 1/2 ounce) can pinto beans, undrained 1 (24 ounce) jar black bean and corn salsa 3/4 cup salsa con queso 1 1/2 cups water Directions # Crumble ground beef in a soup pot over medium-high heat. Add taco seasoning packet. Cook until beef is no longer pink, about 5 minutes.</description>
+    </item>
+    <item>
+      <title>Crock Pot Buffalo Chicken Dip</title>
+      <link>http://loafabreadly.github.io/docs/recipes/buffalo-chicken-dip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/buffalo-chicken-dip/</guid>
+      <description>Crock Pot Buffalo Chicken Dip # This is a recipe for Crock Pot Buffalo Chicken Dip from iowagirleats.com. It yields 4 servings.&#xA;Ingredients # 2 10oz cans chunk chicken breast (drained) 8oz block cream cheese, softened to room temperature 4oz finely shredded colby jack cheese 1/2 cup frank&amp;rsquo;s wing sauce (or more for additional spiciness) 1/2 cup gluten free ranch dressing Tortilla chips, carrots, and celery for dipping Directions # Add chicken, cream cheese, shredded cheese, wing sauce, and ranch dressing to a 3 quart crock pot, or 6 quart crock pot.</description>
+    </item>
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>http://loafabreadly.github.io/docs/homelab/markdown-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/homelab/markdown-cheat-sheet/</guid>
+      <description>Markdown Cheat Sheet # Thanks for visiting The Markdown Guide!&#xA;This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.&#xA;Basic Syntax # These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>
+    </item>
+    <item>
+      <title>Marry Me Chicken</title>
+      <link>http://loafabreadly.github.io/docs/recipes/marry-me-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/marry-me-chicken/</guid>
+      <description>Marry Me Chicken # Ingredients # 1 ½ pounds skinless, boneless chicken breast halves 2 tablespoons butter 3 cloves garlic, minced ½ teaspoon dried oregano ¼ teaspoon ground thyme ½ cup chicken broth, divided ½ pound bacon 1 (16 ounce) package angel hair pasta 1 tablespoon all-purpose flour ½ cup freshly shaved Parmesan cheese ¼ cup whipping cream ¼ cup chopped sun-dried tomatoes 1 pinch red pepper flakes salt to taste Directions # Gather ingredients.</description>
+    </item>
+    <item>
+      <title>Marry Me Chicken Soup</title>
+      <link>http://loafabreadly.github.io/docs/recipes/marry-me-chicken-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/marry-me-chicken-soup/</guid>
+      <description>This Marry Me Chicken Soup Is a Bowlful of Pure Love # Ingredients # 1/2 cup sun-dried tomatoes packed in oil 1 tablespoon oil 1 1/2 cups yellow onion 4 cloves garlic 3 tablespoons tomato paste 8 cups chicken broth 1 cup heavy whipping cream 4 teaspoons chopped fresh basil 2 teaspoons kosher salt 1 1/2 teaspoons Italian seasoning 1 teaspoon garlic powder 1/4 teaspoon crushed red pepper 3 cups shell pasta 3 cups baby spinach 2 cups rotisserie chicken 8 ounces cream cheese 1 1/2 ounces Parmesan cheese Directions # Gather all ingredients.</description>
+    </item>
+    <item>
+      <title>Mashed Potatoes</title>
+      <link>http://loafabreadly.github.io/docs/recipes/mashed-potatoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/mashed-potatoes/</guid>
+      <description>Basic Mashed Potatoes # From: allrecipes.com Servings: 4+ Prep Time: 5 minutes Cook Time: 30 minutes Total Time: 35 minutes&#xA;Ingredients # 2 pounds baking potatoes, peeled and quartered 3 cloves garlic, peeled, or to taste (optional) 1 cup milk 2 tablespoons butter Salt and ground black pepper, to taste Instructions # Bring a large pot of salted water to a boil. Add potatoes and garlic (if using). Reduce heat to medium and simmer until potatoes are tender, about 15-20 minutes.</description>
+    </item>
+    <item>
+      <title>Notes Taking Plans</title>
+      <link>http://loafabreadly.github.io/docs/homelab/notes-plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/homelab/notes-plan/</guid>
+      <description>Plan on how to host notes using Hugo + GH Pages # Create a repo of my personal notes, broken down by the folders matching the way I want Hugo to host said notes. ☑️ Currently setup for homelab and recipes folders Write notes in the standard md format, keeping track using the private git repo ☑️ Setup a private docker repo ☑️ Create a GH Actions workflow which will ☑️ Reachable at https://loafabreadly.</description>
+    </item>
+    <item>
+      <title>Running Todo</title>
+      <link>http://loafabreadly.github.io/docs/running-todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/running-todo/</guid>
+      <description>TODO Notes for Brad Snurka # Daily tasks (Things i want to work on right now) # Continue working on dotfiles repo by copying nvim live config Work on setup and installprereqs script to include lazygit, lazyvim/neovim + prereqs [ ] Requires testing homebrew hugo via bob lazygit lazyvim/neovim lazyvim pre-reqs kubectl k9s Format bashrc, modify aliases Look into recipe extraction script Write Index pages for all categories Write bash script to automate menu index.</description>
+    </item>
+    <item>
+      <title>Slow Cooker French Dip</title>
+      <link>http://loafabreadly.github.io/docs/recipes/crock-pot-french-dip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/recipes/crock-pot-french-dip/</guid>
+      <description>Easy Slow Cooker French Dip # Ingredients # 4 pounds rump roast 1 (12 fluid ounce) can or bottle beer 1 (10.5 ounce) can condensed French onion soup 1 (10.5 ounce) can beef broth 9 French rolls 2 tablespoons butter Directions # Trim excess fat from rump roast and place in a slow cooker. Pour in beer, onion soup, and beef broth. Cover and cook on Low setting for 7 hours.</description>
+    </item>
+    <item>
+      <title>tmux Cheat Sheet</title>
+      <link>http://loafabreadly.github.io/docs/homelab/tmux-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/homelab/tmux-cheat-sheet/</guid>
+      <description>tmux shortcuts &amp;amp; cheatsheet # start new:&#xA;tmux start new with session name:&#xA;tmux new -s myname attach:&#xA;tmux a # (or at, or attach) attach to named:&#xA;tmux a -t myname list sessions:&#xA;tmux ls kill session:&#xA;tmux kill-session -t myname Kill all the tmux sessions:&#xA;tmux ls | grep : | cut -d. -f1 | awk &#39;{print substr($1, 0, length($1)-1)}&#39; | xargs kill In tmux, hit the prefix ctrl+b (my modified prefix is ctrl+a) and then:</description>
+    </item>
+  </channel>
+</rss>

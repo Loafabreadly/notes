@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homelab on The Snurka Notes Repo</title>
+    <link>http://loafabreadly.github.io/docs/homelab/</link>
+    <description>Recent content in Homelab on The Snurka Notes Repo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://loafabreadly.github.io/docs/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>http://loafabreadly.github.io/docs/homelab/markdown-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/homelab/markdown-cheat-sheet/</guid>
+      <description>Markdown Cheat Sheet # Thanks for visiting The Markdown Guide!&#xA;This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.&#xA;Basic Syntax # These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>
+    </item>
+    <item>
+      <title>Notes Taking Plans</title>
+      <link>http://loafabreadly.github.io/docs/homelab/notes-plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/homelab/notes-plan/</guid>
+      <description>Plan on how to host notes using Hugo + GH Pages # Create a repo of my personal notes, broken down by the folders matching the way I want Hugo to host said notes. ☑️ Currently setup for homelab and recipes folders Write notes in the standard md format, keeping track using the private git repo ☑️ Setup a private docker repo ☑️ Create a GH Actions workflow which will ☑️ Reachable at https://loafabreadly.</description>
+    </item>
+    <item>
+      <title>tmux Cheat Sheet</title>
+      <link>http://loafabreadly.github.io/docs/homelab/tmux-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://loafabreadly.github.io/docs/homelab/tmux-cheat-sheet/</guid>
+      <description>tmux shortcuts &amp;amp; cheatsheet # start new:&#xA;tmux start new with session name:&#xA;tmux new -s myname attach:&#xA;tmux a # (or at, or attach) attach to named:&#xA;tmux a -t myname list sessions:&#xA;tmux ls kill session:&#xA;tmux kill-session -t myname Kill all the tmux sessions:&#xA;tmux ls | grep : | cut -d. -f1 | awk &#39;{print substr($1, 0, length($1)-1)}&#39; | xargs kill In tmux, hit the prefix ctrl+b (my modified prefix is ctrl+a) and then:</description>
+    </item>
+  </channel>
+</rss>

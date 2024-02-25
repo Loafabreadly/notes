@@ -1,6 +1,6 @@
 ---
-title: "Recipes"
-weight: 1
+title: "Snacks"
+weight: 2
 bookFlatSection: true
 # bookToc: true
 # bookHidden: false
@@ -8,4 +8,4 @@ bookCollapseSection: true
 # bookComments: false
 # bookSearchExclude: false
 ---
-# The Main Recipes section
+# The main Snack recipes section

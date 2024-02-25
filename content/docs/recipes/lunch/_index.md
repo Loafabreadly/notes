@@ -1,5 +1,5 @@
 ---
-title: "Recipes"
+title: "Lunch"
 weight: 1
 bookFlatSection: true
 # bookToc: true
@@ -8,4 +8,4 @@ bookCollapseSection: true
 # bookComments: false
 # bookSearchExclude: false
 ---
-# The Main Recipes section
+# The main Lunch recipes section
