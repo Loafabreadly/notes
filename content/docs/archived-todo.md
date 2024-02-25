@@ -13,3 +13,7 @@ bookHidden: true
 - [X] ~~Look into Obsidian~~ - Going to use vscode to manage md files
 - [X] Look into Hugo for static site generation *using Pandoc + Markdown* - [Hosted here](https://loafabreadly.github.io/notes/)
 - [X] [Setup Notes system ](./homelab/notes-plan.md)
+- [X] Look into recipe extraction script
+- [X] Write Index pages for all categories
+- [X] Write bash script to automate menu index.md generation
+- [X] Continue working on dotfiles repo by copying nvim live config

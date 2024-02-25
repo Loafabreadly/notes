@@ -14,13 +14,12 @@ weight: 1
 
 * **Language:** Java 17
 * **Libraries:**
-    * Javacord: Discord bot library
-    * Jackson: JSON serialization/deserialization
-    * Lombok: simplifies boilerplate code
+    * [Javacord: Discord bot library](https://javacord.org/)
+    * [Jackson: JSON serialization/deserialization](https://github.com/FasterXML/jackson)
+    * [Lombok: simplifies boilerplate code](https://projectlombok.org/)
 
-**API Server:**
-
-* **Framework:** Spring Boot (Java)
+**API Server**
+* **Framework:** [Spring Boot](https://spring.io/quickstart) (Java)
     * **Reasoning:** Mature and well-established framework for building REST APIs in Java. Offers features like dependency injection, auto-configuration, and built-in web server.
 
 **Frontend (WebUI):**
@@ -53,10 +52,64 @@ weight: 1
     * Familiarize yourself with Javacord library for interacting with the Discord API.
     * Define bot functionalities and implement communication with the API server using REST calls.
 
+```java
+import me.koply.kcommando.KCommando;
+import me.koply.kcommando.integration.impl.javacord.JavacordIntegration;
+import org.javacord.api.DiscordApi;
+import org.javacord.api.DiscordApiBuilder;
+import org.javacord.api.entity.intent.Intent;
+try {
+            DiscordApi api = new DiscordApiBuilder()
+                    .setToken(token)
+                    .addIntents(Intent.MESSAGE_CONTENT)
+                    .addIntents(Intent.GUILDS)
+                    .login().join();
+
+            if (args.length == 1) {
+                logger.info("Setting bot status to match Git Commit of " + args[0]);
+                api.updateActivity("v." + args[0]);
+            } else {
+                logger.info("Setting bot status to match internal version of " + Constants.VERSION);
+                api.updateActivity("v." + Constants.VERSION);
+            }
+
+            JavacordIntegration jci = new JavacordIntegration(api);
+            KCommando kc = new KCommando(jci)
+                    .addPackage(Command.class.getPackageName())
+                    .setReadBotMessages(false)
+                    .setPrefix("/")
+                    .setOwners(Constants.OWNER_ID)
+                    .setVerbose(false);
+        catch (Exception e) {
+            logger.error(e.getMessage());
+        }                    
+```                    
+
 2. **API Server (Spring Boot):**
     * Set up a Spring Boot project and define REST API endpoints for the WebUI to interact with.
     * Implement logic to handle requests, interact with the bot backend, and potentially store data in a database.
 
+```java
+@RestController
+@RequestMapping("/api/v1/bot")
+public class BotController {
+
+    @Autowired
+    private BotService botService;
+
+    @GetMapping("/statistics")
+    public ResponseEntity<Map<String, Object>> getStatistics() {
+        Map<String, Object> statistics = botService.getStatistics();
+        return ResponseEntity.ok(statistics);
+    }
+}
+```
+```java
+public interface BotService {
+
+    Map<String, Object> getStatistics();
+}
+```
 3. **Frontend (WebUI):**
     * Learn the basics of Svelte for building web applications.
     * Utilize Svelte's features for dynamic UI updates and animations.
